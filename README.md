@@ -1,12 +1,8 @@
 <h1 align="center">
-  <br>
-    <img src="" alt="githubexplorer" width="200">
-  <br>
   Github Explorer
 </h1>
 
 <p align="center">Module 01, Ignite React course by Rocketseat.</p>
-<p align="center">Módulo 01, curso Ignite React da Rocketseat.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -17,39 +13,32 @@
 ## 📜 Features
 
 <ul>
-  <li><p>See locations that offer collection nearby. Get in touch via Whatsapp or Email.</p></li>
+  <li><p>Using the Github api to search all repositories for a specific user or organization..</p></li>
 </ul>
 
 <div align="center">
-  <img src=".github/home-mobile.jpg" alt="Home" height="425">
-  <img src=".github/points-mobile.jpg" alt="Points" height="425">
-  <img src=".github/details-mobile.jpg" alt="Details" height="425">
+  <img src=".github/01.png" alt="01" height="425">
+  <img src=".github/02.png" alt="02" height="425">
+  <img src=".github/03.png" alt="03" height="425">
+  <img src=".github/04.png" alt="04" height="425">
 </div>
-
-<ul>
-  <li><a href="https://github.com/sartero/ecoleta-backend">Backend</a></li>
-  <li><a href="https://github.com/sartero/ecoleta-frontend-web">Frontend Web</a></li>
-</ul>
 
 ## 🧰 Techs
 
 [//]: # "Add the features of your project here:"
 
-- 💹 **Node.js** — A JavaScript runtime built on Chrome's V8;
-- 💼 **React Native** — A framework for building native apps using React;
-- ⛏ **Expo** — An open source platform to develop projects for Android and iOS;
-- 🔷 **Typescript** — A typed superset of JavaScript.
+🔷 **React;**
+🔷 **Babel;**
+🔷 **Webpack;**
+🔷 **Sass;**
+🔷 **Typescript.**
 
 ## 💻 Getting started
 
-##### Note: Note: You need an Android / iOS device or emulator. You can see how to do this in this <a href="https://react-native.rocketseat.dev/">Rocketseat Guide</a>
-
-##### Note: You need to have the Backend of the application running. <a href="https://github.com/sartero/ecoleta-backend">You get it here.</a>
-
-1. Clone this repo using <code>https://github.com/sartero/ecoleta-frontend-mobile.git</code>
-2. Move to the appropiate directory: <code>cd mobile</code>
+1. Clone this repo using <code>https://github.com/emanuelv15/github-explorer-ignite-rocketseat.git</code>
+2. Move to the appropiate directory: <code>cd directory</code>
 3. Run <code>yarn</code> or <code>npm install</code> to install the dependencies
-4. Run <code>yarn start</code> or <code>npm start</code> to start the development server
+4. Run <code>yarn dev</code> or <code>npm dev</code> to start the development server
 
 ## 🤓 How to contribute
 
